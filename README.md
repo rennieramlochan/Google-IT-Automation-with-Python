@@ -60,13 +60,6 @@ The repository is organized by course modules to ensure easy navigation:
 /course-05-config-management/ - Solutions and documentation.
 /course-06-capstone/ - Solutions and documentation.
 
-├── course-01-crash-course-python/      # Solutions and documentation
-├── course-02-using-python-os/          # Solutions and documentation
-├── course-03-git-github/               # Solutions and documentation
-├── course-04-troubleshooting/          # Solutions and documentation
-├── course-05-config-management/        # Solutions and documentation
-└── course-06-capstone/                 # Solutions and documentation
-    └── Portfolio_Activities/           # Final project implementations
 Getting Started
 To consult this repository for reference:
 Navigate to the relevant course directory.
