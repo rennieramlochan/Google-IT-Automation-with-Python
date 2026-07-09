@@ -6,3 +6,4 @@ Certificate:
 **Certificate for Rennie Ramlochan,Google IT Automation with Python Professional Certificate, offered through Google.** 
 <br>
 **https://github.com/rennieramlochan/Google-IT-Automation-with-Python/blob/main/Google%20IT%20Automation%20with%20Python.jpeg?raw=true**
+https://raw.githubusercontent.com/rennieramlochan/Google-IT-Automation-with-Python/main/Google%20IT%20Automation%20with%20Python.jpeg
