@@ -1,29 +1,67 @@
+Google-IT-Automation-with-Python-Professional-Certificate
+Certificate:
+
+Certificate for Rennie Ramlochan, Google IT Automation with Python Professional Certificate, offered through Google.
 
 
-Google IT Automation with Python Professional Certificate - Portfolio
-Certificate Holder: Rennie Ramlochan
+Those who earn the Google IT Automation with Python Professional Certificate have completed six courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for roles in IT support and automation. They are competent in utilizing Python to interact with operating systems, managing system resources, automating tasks, and leveraging Git and GitHub for version control.
 
-Provider: Google (via Coursera)
+The focus of this Portfolio was to gather, improve and complete activities related to IT Automation and presented in Google's IT Automation with Python Professional Certificate offered through Coursera.
 
-This repository serves as a professional portfolio documenting the completion of the Google IT Automation with Python Professional Certificate. The program consists of six courses designed to equip learners with essential skills for IT support, systems administration, and task automation.
+1. Crash Course on Python
 
-The projects and activities contained herein demonstrate proficiency in Python programming, interacting with operating systems, version control, troubleshooting, configuration management, and cloud infrastructure.
 
-Program Overview
-Those who earn the Google IT Automation with Python Professional Certificate have demonstrated competency in:
+This course covers the fundamentals of Python programming to get you up and running with the language.
 
-Python Programming: Writing scripts to automate system tasks.
 
-Operating Systems: Manipulating files, processes, and system resources.
+By the end of this course, you’ll be able to:
 
-Version Control: Using Git and GitHub for collaborative software development.
+2. Using Python to Interact with the Operating System
 
-Troubleshooting: Identifying root causes and debugging complex IT issues.
 
-Configuration Management: Managing system configurations at scale.
+Learn to manipulate files and processes on your computer using Python scripts. You will be introduced to how to navigate the file system, manage files and directories, read and write files, and work with system processes.
 
-Cloud Interaction: Interacting with cloud APIs and managing remote instances.
 
+Finally, you will see how to use Python to process system information and manage system resources, creating scripts that organize files and parse logs.
+
+3. Introduction to Git and GitHub
+
+
+Master the essential version control system used by developers globally to track code changes and collaborate. Gain skills such as repository management, branching, merging, and managing remote repositories on GitHub.
+
+
+By the end of this course, you’ll be able to:
+
+4. Troubleshooting and Debugging Techniques
+
+
+In this course, you'll learn how to identify, analyze, and fix software problems efficiently.
+
+
+By the end of this course, you'll be able to:
+
+5. Configuration Management and the Cloud
+
+
+Explore how to manage computers at scale using configuration management tools and cloud services.
+
+
+By the end of this course, you will be able to:
+
+Hands-on, practice-based assessments included:
+
+6. Automating Real-World Tasks with Python (Capstone)
+
+
+In this course, you’ll complete a capstone project in which you’ll apply everything you’ve learned to solve authentic IT problems.
+
+
+The Capstone project enables you to demonstrate multiple skills from the Certificate by solving an authentic real-world problem.
+
+
+By the end of this course, you’ll have proven your ability to:
+
+Directory Structure
 Course Curriculum
 1. Crash Course on Python
 Foundations of Python programming.
