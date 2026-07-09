@@ -1,4 +1,4 @@
-To properly format this for GitHub, you should save the text below as a README.md file within your repository. This will render as a professional, clean, and scannable landing page for anyone visiting your project.
+
 
 Google IT Automation with Python Professional Certificate - Portfolio
 Certificate Holder: Rennie Ramlochan
