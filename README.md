@@ -7,3 +7,7 @@ Certificate:
 <br>
 **https://github.com/rennieramlochan/Google-IT-Automation-with-Python/blob/main/Google%20IT%20Automation%20with%20Python.jpeg?raw=true**
 https://raw.githubusercontent.com/rennieramlochan/Google-IT-Automation-with-Python/main/Google%20IT%20Automation%20with%20Python.jpeg
+
+
+
+<img src="(https://raw.githubusercontent.com/rennieramlochan/Google-IT-Automation-with-Python/main/Google%20IT%20Automation%20with%20Python.jpeg)" alt="View certificate for Rennie Ramlochan, Meta Database Engineer Professional Certificate, offered through Coursera."/>
