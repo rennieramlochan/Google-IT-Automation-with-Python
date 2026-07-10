@@ -10,7 +10,7 @@ Certificate:
 ## Overview
 This repository serves as a professional portfolio documenting the completion of the **Google IT Automation with Python Professional Certificate** offered through Coursera.
 
-This program is designed to take learners from basic Python programming to advanced automation, teaching how to use code to interact with operating systems, manage system resources, and automate tasks at scale using Git, GitHub, and cloud infrastructure.
+The program consists of six courses designed to equip learners with essential skills for IT support, systems administration, and task automation. The projects and activities contained herein demonstrate proficiency in Python programming, interacting with operating systems, version control, troubleshooting, configuration management, and cloud infrastructure..This program is designed to take learners from basic Python programming to advanced automation, teaching how to use code to interact with operating systems, manage system resources, and automate tasks at scale using Git, GitHub, and cloud infrastructure.
 
 ## Technical Proficiencies
 - **Python Programming:** Writing efficient scripts to automate routine system tasks.
