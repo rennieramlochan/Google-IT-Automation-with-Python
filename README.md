@@ -68,7 +68,7 @@ Review the code solutions and documentation provided.
 
 Note: The solutions and scripts provided in this repository are for reference purposes. They are intended to demonstrate the implementation of concepts learned during the program and are not guaranteed to be the singular or optimal solution for any given problem.
 
-Maintained by Rennie Ramlochan
+
 
 
 
